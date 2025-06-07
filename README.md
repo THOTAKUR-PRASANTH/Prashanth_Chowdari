@@ -4,23 +4,23 @@
 ![My Profile](./my2.png)
 
 
-                                      🎯 Unlock My World of Code, Creativity & Craft
+                    🎯 Unlock My World of Code, Creativity & Craft
                                       
-                                      Hi there! 👋
-                                      I'm Prashanth — a passionate developer, tech enthusiast, and problem solver.
-                                      
-                                      
-                                      Explore my latest projects, skills, and creative journey all in one place:
+                     Hi there! 👋
+                     I'm Prashanth — a passionate developer, tech enthusiast, and problem solver.
                                       
                                       
-                                      👉 🔗 https://prashanth.me/Portfolio/
+                     Explore my latest projects, skills, and creative journey all in one place:
                                       
                                       
-                                      Whether you’re a recruiter, collaborator, or curious visitor —
+                     👉 🔗  https://prashanth.me/Portfolio/
                                       
-                                      Let’s build the future, one line of code at a time.
                                       
-                                      💡 Design. Develop. Deliver.
+                    Whether you’re a recruiter, collaborator, or curious visitor —
+                                      
+                    Let’s build the future, one line of code at a time.
+                                      
+                    💡 Design. Develop. Deliver.
 
 
 
