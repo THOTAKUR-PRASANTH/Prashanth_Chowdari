@@ -1,3 +1,8 @@
+
+
+
+
+
 🎯 Unlock My World of Code, Creativity & Craft
 
 Hi there! 👋
@@ -12,3 +17,8 @@ Whether you’re a recruiter, collaborator, or curious visitor —
 Let’s build the future, one line of code at a time.
 
 💡 Design. Develop. Deliver.
+
+
+
+
+![My Profile](./my.jpg)
